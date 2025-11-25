@@ -7,7 +7,7 @@ Here's a bit about me:
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**  
-  *New Era University (present)*
+  *New Era University 2025 (present)*
 
 ---
 
