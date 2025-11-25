@@ -23,7 +23,6 @@ Here's a bit about me:
 - Python  
 
 **Database / Cloud:**  
-- IBM Cloud  
 - IBM DB2  
 
 ---
