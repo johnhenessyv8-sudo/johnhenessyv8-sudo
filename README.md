@@ -12,5 +12,5 @@ Here's a bit about me:
   - ...
 ---
 ### 🛠️ Skillset
-  **Languages:** Java, Python
-  **Database:** IBM cloud
+**Languages:** Java, Python
+**Database:** IBM cloud
