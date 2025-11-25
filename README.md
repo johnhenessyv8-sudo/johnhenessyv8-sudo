@@ -23,7 +23,16 @@ Here's a bit about me:
 - Python  
 
 **Database / Cloud:**  
-- IBM DB2  
+- IBM DB2
+
+**Tools:**
+- Eclipse IDE
+- VSCode
+- Intellij
+- Lucidchart
+- HTML
+- Pycharm
+- IBM
 
 ---
 
