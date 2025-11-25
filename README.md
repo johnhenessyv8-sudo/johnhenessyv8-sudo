@@ -6,14 +6,14 @@ Here's a bit about me:
 
 ---
 
-### 🎓 Education
+## 🎓 Education
   - Bachelors in Information Technology
   - New Era University
 ---
-### 📜 Certifications
+## 📜 Certifications
   - ...
   - ...
 ---
-### 🛠️ Skillset
+## 🛠️ Skillset
 **Languages:** Java, Python
 **Database:** IBM cloud
