@@ -1,25 +1,32 @@
-**Hi there, I'm John Henessy A. Villanueva**
+# 👋 Hi there, I'm **John Henessy A. Villanueva**
 
----
-
-I'm passionate about coding and learning new technologies.
+I'm passionate about coding and learning new technologies.  
 Here's a bit about me:
 
 ---
 
-### 🎓 Education
-  - Bachelors in Information Technology
-  - New Era University
+## 🎓 Education
+- **Bachelor of Science in Information Technology**  
+  *New Era University*
 
 ---
 
-### 📜 Certifications
-  - ...
-  - ...
+## 📜 Certifications
+- ...
+- ...
 
 ---
 
-### 🛠️ Skillset
+## 🛠️ Skillset
 
-**Languages:** Java, Python
-**Database:** IBM cloud
+**Languages:**  
+- Java  
+- Python  
+
+**Database / Cloud:**  
+- IBM Cloud  
+- IBM DB2  
+
+---
+
+Thanks for visiting my profile! 🚀
