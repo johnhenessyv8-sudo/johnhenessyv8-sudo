@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **John Henessy A. Villanueva**
+# Hi there, I'm **John Henessy A. Villanueva**
 
 I'm passionate about coding and learning new technologies.  
 Here's a bit about me:
@@ -12,8 +12,7 @@ Here's a bit about me:
 ---
 
 ## 📜 Certifications
-- ...
-- ...
+- [IBM Cloud Fundamentals](https://courses.cognitiveclass.ai/certificates/6c2e0f21d6c24424959613cb3fdce038)
 
 ---
 
