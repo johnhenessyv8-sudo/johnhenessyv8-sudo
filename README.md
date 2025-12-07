@@ -13,6 +13,7 @@ Here's a bit about me:
 
 ## 📜 Certifications
 - [IBM Cloud Fundamentals](https://courses.cognitiveclass.ai/certificates/6c2e0f21d6c24424959613cb3fdce038)
+- [Oracle Cloud Infrastructure 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=27E9CA3353BA33B3A8AF45DA2D8640B3ABB4A82403404814793A858202B24391)
 
 ---
 
