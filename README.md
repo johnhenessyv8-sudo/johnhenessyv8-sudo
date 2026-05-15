@@ -22,7 +22,12 @@ Here's a bit about me:
 
 ## 🛠️ Skillset
 
-**Languages:**  
+**Frontend languages:**
+- HTML
+- CSS
+- Javascript
+  
+**Backend languages:**  
 - Java  
 - Python  
 
@@ -34,9 +39,14 @@ Here's a bit about me:
 - VSCode
 - Intellij
 - Lucidchart
-- HTML
 - Pycharm
 - IBM
+- Jaspersoft Studio
+- Spoon
+
+**You can reach me at:**
+*Email:*
+- johnhenessyv8@gmail.com
 
 ---
 
