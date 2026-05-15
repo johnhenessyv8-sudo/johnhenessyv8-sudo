@@ -44,8 +44,7 @@ Here's a bit about me:
 - Jaspersoft Studio
 - Spoon
 
-**You can reach me at:**
-*Email:*
+**You can contact my email:**
 - johnhenessyv8@gmail.com
 
 ---
